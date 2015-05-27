@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B0A47563-951D-4CD6-85DD-3642B573664A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GroupedOut</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FBA09926358CA6C6EE820A5F75511F97DA0209C1</key>
+		<string>https://github.com/chuckluck44/GroupedOut.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GroupedOut.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FBA09926358CA6C6EE820A5F75511F97DA0209C1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chuckluck44/GroupedOut.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FBA09926358CA6C6EE820A5F75511F97DA0209C1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FBA09926358CA6C6EE820A5F75511F97DA0209C1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GroupedOut</string>
+		</dict>
+	</array>
+</dict>
+</plist>
